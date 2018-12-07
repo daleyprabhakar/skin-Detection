@@ -1,3 +1,4 @@
+# Skin Detection
 Skin detection is the process of finding skin-colored pixels and regions in an image or a video.
 This process is typically used as a preprocessing step to find regions that potentially have human
 faces and limbs in images. Several computer vision approaches have been developed for skin
@@ -37,7 +38,7 @@ fact that many objects in the real world might have skin-tone colors. For exampl
 skin-colored clothing, hair, sand, etc. This causes any skin detector to have many false detections
 in the background if the environment is not controlled.
 
-Framework for Skin Detection: 
+# Framework for Skin Detection: 
 
 Skin detection process has two phases: a training phase and a detection phase. Training a skin
 detector involves three basic steps:
