@@ -39,7 +39,7 @@ skin-colored clothing, hair, sand, etc. This causes any skin detector to have ma
 in the background if the environment is not controlled.
 
 <p align="center">
-  <img src="data/Capture.png"  width=544 height=613>
+  <img src="data/Capture.PNG"  width=544 height=613>
 </p>
 
 # Framework for Skin Detection: 
