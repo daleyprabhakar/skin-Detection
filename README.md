@@ -37,6 +37,9 @@ detector and its sensitivity to change in illumination conditions. Another chall
 fact that many objects in the real world might have skin-tone colors. For example, wood, leather,
 skin-colored clothing, hair, sand, etc. This causes any skin detector to have many false detections
 in the background if the environment is not controlled.
+<p align="center">
+  <img src="data/Capture.png">
+</p>
 
 # Framework for Skin Detection: 
 
