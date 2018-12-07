@@ -37,6 +37,7 @@ detector and its sensitivity to change in illumination conditions. Another chall
 fact that many objects in the real world might have skin-tone colors. For example, wood, leather,
 skin-colored clothing, hair, sand, etc. This causes any skin detector to have many false detections
 in the background if the environment is not controlled.
+
 <p align="center">
   <img src="data/Capture.png"  width=544 height=613>
 </p>
@@ -47,6 +48,7 @@ Skin detection process has two phases: a training phase and a detection phase. T
 detector involves three basic steps:
 1.  Collecting a database of skin patches from different images. Such a database typically contains
     skin-colored patches from a variety of people under different illumination conditions.
+    (Data collected from random Google Search)
 2.  Choosing a suitable color space.
 3.  Learning the parameters of a skin classifier.
 
